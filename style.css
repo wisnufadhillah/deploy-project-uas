@@ -152,7 +152,7 @@ body {
 /* ? hero */
 .hero {
 	position: relative;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/assets/images/hero.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/images/hero.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -449,7 +449,7 @@ body {
 /* ? hero second */
 .hero__second {
 	position: relative;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/assets/images/about.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/images/about.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -624,7 +624,7 @@ body {
 /* ? hero third */
 .hero__third {
 	position: relative;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/assets/images/package.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/images/package.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -816,7 +816,7 @@ body {
 /* ? hero fifth */
 .hero__fifth {
 	position: relative;
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/assets/images/contact.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.7)), url(/images/contact.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
